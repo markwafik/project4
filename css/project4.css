@@ -1,0 +1,286 @@
+*
+{
+    width: 100%;
+    margin: auto;
+}
+nav
+{
+    width: 15%;
+    height: 700px;
+    position: fixed;
+    right: 0;
+    background-color: dodgerblue;
+    display: none;
+
+}
+.icon
+{
+    background-color: blue;
+    height: 50px;
+    width: 100%;
+
+}
+nav h3
+{ 
+text-align: left;
+color: ghostwhite;
+}
+i
+{
+    z-index: 5;
+    text-align: right;
+    height: 30px;
+    margin-right: 9px;
+    position: fixed;
+    right: 5px;
+    top: 5px;
+    font-size: 30px;
+    
+}
+nav p
+{
+  
+  padding-left: 10px;
+  border-style: solid;
+}
+nav p:hover
+{
+    border-color: white;
+    padding-left: 15px;
+    cursor: pointer;
+    transition: all .25s ease;
+    color: greenyellow;
+}
+header
+{
+    height: 700px;
+    background-image: url('../img/bg-masthead.jpg');
+    background-size: cover;
+}
+.s
+{
+    text-align: center;
+    height: 700px;
+    align-items: center;
+}
+.s h1
+{
+    font-weight: bolder;
+    font-size: 60px;
+}
+.s p
+{
+    font-style: italic;
+    font-weight: bold;
+}
+.s button
+{
+    width: 15%;
+    border: none;
+    background-color: rgb(50, 168, 166);
+    color: honeydew;
+    padding:10px 20px;
+    margin-top: 15px;
+    border-radius: 5px;
+}
+
+.sec
+{
+    text-align: center;
+    margin-top: 10%;
+    height: 300px;
+}
+.sec h1
+{
+    font-size: 30px;
+    font-weight: bolder;
+}
+.sec p
+{
+    color: gray;
+    font-size: 18px;
+}
+.sec button
+{
+    width: 13%;
+    margin-top: 15px;
+    border: none;
+    background-color: black;
+    color: white;
+    padding: 10px 0px;
+    border-radius: 3px;
+}
+.third
+{
+    background-color: rgb(56, 135, 181);
+    width: 100%;
+    height:500px;
+}
+.head p
+{
+    color: yellow;
+    text-align: center;
+    font-weight: 700;
+    padding-top: 100px;
+}
+.head h1
+{
+    color: whitesmoke;
+    text-align: center;
+    font-weight: bolder;
+}
+.A
+{
+    margin-top: 30px;
+    text-align: center;
+}
+.A img 
+{
+   width:30%;
+   height: 30%;
+   border-radius: 50px;
+}
+.A h4
+{
+    font-size: 15px;
+    font-weight: bold;
+    color: white;
+    margin-top: 17px;
+}
+.A p
+{
+    color: white;
+    font-size: 13px;
+    
+}
+.A p img
+{
+    width: 7%;
+    height: 7%;
+}
+.fourth
+{
+    background-image: url("../img/bg-callout.jpg");
+    width: 100%;
+    height: 650px;
+    background-size: cover;
+    text-align: center
+}
+.fourth h1
+{
+    font-weight: bolder;
+    font-size: 70px;
+    padding-top: 200px;
+    
+}
+.fourth button
+{
+    width: 12%;
+    background-color:rgb(50, 168, 166) ;
+    border: none;
+    border-radius: 3px;
+    color:white;
+    padding:10px 0px;
+    margin-top: 40px;
+}
+.port
+{
+    height: 1100px;
+    width: 100%;
+    text-align: center;
+}
+.H h3
+{
+  color: rgb(255, 193, 51);
+  font-size: 15px;
+  font-weight: bold;
+  padding-top:100px;
+}
+.H h1
+{
+    font-size: 40px;
+    font-weight: 700;
+    padding-bottom: 50px;
+}
+.first 
+{
+ position: relative;
+ height:370px;
+}
+.text
+{
+    position: absolute;
+    text-align: left;
+    bottom: 20%;
+    left: 15%;
+    color: white;
+    
+}
+.second
+{
+ position: relative;
+ height:370px;
+}
+.bg
+{
+    background-color:rgb(56, 135, 181) ;
+    height: 300px;
+    width: 100%;
+    text-align: center;
+}
+.bg h1
+{
+    color: white;
+    font-weight: bolder;
+    padding-top: 100px;
+}
+.But
+{
+    width: 20%;
+    margin-top: 40PX;
+}
+.But .B  
+{
+    border: none;
+    background-color: white;
+    padding: 10px 0px;
+    border-radius: 3px;
+}
+.But .C 
+{
+    color: white;
+    background-color: black;
+    padding:10px 0px;
+    border: none;
+    margin-left: 15PX;
+    border-radius: 3px;
+}
+footer
+{
+    height: 150px;
+}
+footer img
+{
+    width: 5%;
+    height: 15%;
+    margin-top: 30px;
+    padding-left: 15px;
+    
+}
+.FF
+{
+    text-align: center;
+}
+.FF h4
+{
+    color: gray;
+    font-size: 15px;
+    margin-top: 40px;
+}
+
+
+
+
+
+
+
